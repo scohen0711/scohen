@@ -6,3 +6,4 @@ git branch -M main
 git remote add origin https://github.com/scohen0711/scohen.git
 git push -u origin main
 SF Bay Area program manager
+$ git config --global core.autocrlf false
